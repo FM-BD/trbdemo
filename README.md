@@ -1,7 +1,7 @@
 
 ***Travelers BD Demo Site Created By Fahim3411***
 
-Before you test this site on you own, Edit wp-config.php file as following
+Before you test this site on your own, Edit wp-config.php file as following
 
 define('DB_NAME', 'your_database_name');
 
